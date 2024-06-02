@@ -24,7 +24,7 @@ function Eyes() {
       <div
         data-scroll
         data-scroll-speed="-.7"
-        className=' relative w-full h-full bg-cover bg-center bg-[url("./public/EyesPageBackground.jpg")] '
+        className='relative w-full h-full bg-cover bg-center bg-[url("./public/EyesPageBackground.jpg")] '
       >
         <div  className="absolute w-1/2 h-[40vh] flex items-center justify-center gap-2  top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]  ">
           <div className=" flex items-center justify-center w-[15vw] h-[15vw] bg-slate-100 rounded-full">

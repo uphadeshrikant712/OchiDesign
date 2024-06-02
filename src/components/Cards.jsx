@@ -5,7 +5,7 @@ function Cards() {
     <div className="w-full h-screen flex items-center gap-[2vw] px-[1.4vw] bg-slate-100">
       <div className="cardcontainer w-1/2 h-[30vw]">
         <div className="card h-full w-full bg-[#004D43] rounded-lg overflow-hidden flex items-center flex-wrap justify-center relative ">
-          <img className="w-[11vw]" src="./public/oochi logo.svg" alt="" />
+          <img className="w-[11vw]" src="./public/oochi-logo.svg" alt="" />
           <button className="absolute left-10 bottom-7 px-3 py-1 border-[.12vw] border-[#CDEA68] text-[#CDEA68] rounded-full tracking-tight ">
             ©2019-2022
           </button>
@@ -13,7 +13,7 @@ function Cards() {
       </div>
       <div className="cardcontainer flex gap-4 w-1/2 h-[30vw]">
         <div className="card1 h-full w-1/2 bg-[#0f0f0f] rounded-lg overflow-hidden flex items-center justify-center relative">
-          <img src="./public/clutch logo.svg" alt="" />
+          <img src="./public/clutch-logo.svg" alt="" />
           <button className="uppercase absolute left-[1vw] bottom-[1vw] px-[1vw] py-[.3vw] tracking-tighter border-[1.5px] rounded-full ">
             rating 5.0 on clutch
           </button>
