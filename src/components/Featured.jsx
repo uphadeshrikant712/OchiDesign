@@ -52,7 +52,7 @@ function Featured() {
             <div className="card hover:scale-95 transition-all w-full h-full bg-cyan-100 rounded-xl overflow-hidden">
               <img
                 className="w-full h-full bg-cover"
-                src="../Fyde_Illustration.png"
+                src="./public/Fyde_Illustration.png"
                 alt=""
               />
             </div>
@@ -80,7 +80,7 @@ function Featured() {
               </h1>
               <img
                 className="w-full h-full bg-cover"
-                src="../Vise.jpg"
+                src="./public/Vise.jpg"
                 alt=""
               />
             </div>

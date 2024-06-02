@@ -25,7 +25,7 @@ function About() {
           <div className="w-1/2 h-[30vw] rounded-lg overflow-hidden">
             <img
               className="w-full h-full bg-cover"
-              src="../Homepage-Photo.jpg"
+              src="./public/Homepage-Photo.jpg"
               alt=""
             />
           </div>
