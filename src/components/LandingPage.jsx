@@ -20,7 +20,7 @@ function LandingPage() {
                     initial={{ width: 0 }}
                     animate={{ width: "9vw" }}
                     transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
-                    className="mr-[1vw] w-[9vw] rounded-md h-[5.7vw] -top-[1.2vw] relative bg-cover bg-center bg-[url('./public/content-image.jpg')] "
+                    className="mr-[1vw] w-[9vw] rounded-md h-[5.7vw] -top-[1.2vw] relative bg-cover bg-center bg-[url('../content-image.jpg')] "
                   ></motion.div>
                 )}
                 <h1 className="pt-[2vw] -mb-[1vw] uppercase text-[9vw] font-semibold leading-[.75] font-['Founders_Grotesk_X']">
